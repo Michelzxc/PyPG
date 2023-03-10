@@ -1,0 +1,6 @@
+.idea/
+**/__*/
+_copyright*
+__*
+!__main__.py
+!__init__.py
